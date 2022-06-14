@@ -1,7 +1,7 @@
 # AWS-summary
 The necessary things studied in the AWS Udemy course just to keep track of them
 
-## Cloud Monitoring
+#### Cloud Monitoring
 
 Cloud metrics shows you how you use the aws resources and how you get billed 
 Cloud watch logs which help in generating logs for application
