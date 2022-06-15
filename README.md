@@ -82,4 +82,7 @@ Amazon Kendra is an ML tool just like a google for your documents or resources i
 Amazon Personalize is an ML tool used also by Amazon which helps to recommend
 
 Amazon Textract is an ML tool which extracts text from scanned documents
+
 Amazon connect is used to make like a virtual contact center solutions
+
+## Account Management, Billing & Support 
