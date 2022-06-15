@@ -86,3 +86,9 @@ Amazon Textract is an ML tool which extracts text from scanned documents
 Amazon connect is used to make like a virtual contact center solutions
 
 ## Account Management, Billing & Support 
+
+AWS organizations is a tool which puts many accounts into one account
+
+Service control policy(SCP) it restricts some policies to hierachy OU(Organisation Unit)
+
+AWS control tower is a service that enables you to manage all your organizations accounts just built on top of AWS Organizations.
