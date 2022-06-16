@@ -13,6 +13,10 @@ Amazon Elastic Container Service (ECS) is a container management service that su
 
 Amazon CloudFront is a content delivery network operated by Amazon Web Services.
 
+AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services, it just combines different aws services like ec2, route3
+
+AWS Trusted Advisor provides recommendations that help you follow AWS best practices.
+
 Amazon Elastic Block Store provides raw block-level storage that can be attached to Amazon EC2 instances and is used by Amazon Relational Database Service.
 
 ## Cloud Monitoring
