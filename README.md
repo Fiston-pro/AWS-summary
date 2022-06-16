@@ -3,6 +3,8 @@ The necessary things studied in the AWS Udemy course just to keep track of them
 
 Amazon Route 53 is a scalable and highly available Domain Name System service. 
 
+AWS CloudFormation is a service that gives developers and businesses an easy way to create a collection of related AWS and third-party resources, and provision and manage them in an orderly and predictable fashion.
+
 Amazon Aurora is a relational database management system (RDBMS) built for the cloud with full MySQL and PostgreSQL compatibility. 
 
 Multi-factor authentication (MFA) in AWS is a simple best practice that adds an extra layer of protection on top of your user name and password.
