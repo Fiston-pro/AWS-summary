@@ -23,7 +23,7 @@ Amazon Relational Database Service(RDS) is a distributed relational database ser
 
 Amazon Cognito is a simple user identity service that helps you securely manage and synchronize app data for your users across their mobile devices.
 
-AWS Elastic Block Store (EBS) is storage used by the EC2 to store persistent data. 
+AWS Elastic Block Store (EBS) is storage used by one EC2 to store persistent data. 
 
 WS Security Token Service (AWS STS) is a web service that enables you to request temporary, limited-privilege credentials for AWS IAM users or for users that you authenticate 
 
