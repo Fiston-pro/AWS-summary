@@ -7,6 +7,10 @@ Multi-factor authentication (MFA) in AWS is a simple best practice that adds an 
 
 Amazon Relational Database Service(RDS) is a distributed relational database service by Amazon Web Services.
 
+AWS Elastic Block Store (EBS) is storage used by the EC2 to store persistent data. 
+
+Amazon Elastic Container Service (ECS) is a container management service that supports Docker containers and allows you to run applications on a managed cluster of Amazon Elastic Compute Cloud (Amazon EC2) instances.
+
 Amazon CloudFront is a content delivery network operated by Amazon Web Services.
 
 Amazon Elastic Block Store provides raw block-level storage that can be attached to Amazon EC2 instances and is used by Amazon Relational Database Service.
