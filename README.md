@@ -117,6 +117,14 @@ AWS Device Farm is an app testing service that lets you test your Android, iOS, 
 
 Amazon Sumerian makes it easy to create engaging 3D front-end experiences 
 
+AWS Elastic Disaster Recovery (AWS DRS) minimizes downtime and data loss with fast, reliable recovery of on-premises and cloud-based applications.
+
+AWS DataSync is a secure, online service that automates and accelerates moving data between on premises and AWS Storage services.
+
+AWS Fault Injection Simulator supports creating disruptive events across a range of AWS services, including to reduce cpu,... so that you can discover bugs, etc
+
+AWS Backup is a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services
+
 AWS Workplace is a fully managed desktop virtualization service that enables you to securely access data and applications from any supported device
 
 Amazon AppStream is a fully managed application streaming service that provides users with instant access to their desktop applications from anywhere.
