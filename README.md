@@ -3,6 +3,10 @@ The necessary things studied in the AWS Udemy course just to keep track of them
 
 Amazon Route 53 is a scalable and highly available Domain Name System service. 
 
+AWS Direct Connect is a network service that connects your onpremise data center directly to aws   
+
+DynamoDB is an AWS database system that supports data structures and key-valued cloud services or Non-SQL database.
+
 AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.
 
 AWS CloudFormation is a service that gives developers and businesses an easy way to create a collection of related AWS and third-party resources, and provision and manage them in an orderly and predictable fashion.
@@ -132,3 +136,9 @@ AWS Backup is a fully managed backup service that makes it easy to centralize an
 AWS Workplace is a fully managed desktop virtualization service that enables you to securely access data and applications from any supported device
 
 Amazon AppStream is a fully managed application streaming service that provides users with instant access to their desktop applications from anywhere.
+
+## AWS architecting and ecosystem
+
+AWS have 6 pillars of a well-Architected pillars which are  Operational excellence, Security, Reliability, Performance Efficiency, Cost Optimization and Sustainability
+
+AWS Well-Architected Tool allows you to monitor the status of multiple workloads across your organization and helps you understand potential risks. 
