@@ -3,6 +3,8 @@ The necessary things studied in the AWS Udemy course just to keep track of them
 
 Amazon Route 53 is a scalable and highly available Domain Name System service. 
 
+Amazon Redshift is a relational database management system 
+
 AWS Direct Connect is a network service that connects your onpremise data center directly to aws   
 
 DynamoDB is an AWS database system that supports data structures and key-valued cloud services or Non-SQL database.
