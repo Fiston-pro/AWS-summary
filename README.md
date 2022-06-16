@@ -3,11 +3,17 @@ The necessary things studied in the AWS Udemy course just to keep track of them
 
 Amazon Route 53 is a scalable and highly available Domain Name System service. 
 
+Amazon Aurora is a relational database management system (RDBMS) built for the cloud with full MySQL and PostgreSQL compatibility. 
+
 Multi-factor authentication (MFA) in AWS is a simple best practice that adds an extra layer of protection on top of your user name and password.
 
 Amazon Relational Database Service(RDS) is a distributed relational database service by Amazon Web Services.
 
+Amazon Cognito is a simple user identity service that helps you securely manage and synchronize app data for your users across their mobile devices.
+
 AWS Elastic Block Store (EBS) is storage used by the EC2 to store persistent data. 
+
+WS Security Token Service (AWS STS) is a web service that enables you to request temporary, limited-privilege credentials for AWS IAM users or for users that you authenticate 
 
 Amazon Elastic Container Service (ECS) is a container management service that supports Docker containers and allows you to run applications on a managed cluster of Amazon Elastic Compute Cloud (Amazon EC2) instances.
 
@@ -100,3 +106,17 @@ AWS organizations is a tool which puts many accounts into one account
 Service control policy(SCP) it restricts some policies to hierachy OU(Organisation Unit)
 
 AWS control tower is a service that enables you to manage all your organizations accounts just built on top of AWS Organizations.
+
+## Other Services
+
+AWS IoT Core lets you connect billions of IoT devices and route trillions of messages to AWS services 
+
+Amazon Elastic Transcoder is media transcoding in the cloud.
+
+AWS Device Farm is an app testing service that lets you test your Android, iOS, and web apps , on a massive collection of real mobile devices hosted in the AWS Cloud.
+
+Amazon Sumerian makes it easy to create engaging 3D front-end experiences 
+
+AWS Workplace is a fully managed desktop virtualization service that enables you to securely access data and applications from any supported device
+
+Amazon AppStream is a fully managed application streaming service that provides users with instant access to their desktop applications from anywhere.
