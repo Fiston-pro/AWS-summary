@@ -133,7 +133,7 @@ AWS Elastic Disaster Recovery (AWS DRS) minimizes downtime and data loss with fa
 
 AWS DataSync is a secure, online service that automates and accelerates moving data between on premises and AWS Storage services.
 
-AWS Fault Injection Simulator supports creating disruptive events across a range of AWS services, including to reduce cpu,... so that you can discover bugs, etc
+AWS Fault Injection Simulator supports creating disruptive events across a range of AWS services, including to reduce cpu,... so that you can discover bugs, etc.
 
 AWS Backup is a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services
 
