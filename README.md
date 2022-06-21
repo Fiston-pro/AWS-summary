@@ -1,4 +1,4 @@
-# AWS-summary
+# AWS-summary.
 The necessary things studied in the AWS Udemy course just to keep track of them
 
 Amazon Route 53 is a scalable and highly available Domain Name System service. 
