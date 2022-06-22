@@ -13,7 +13,7 @@ DynamoDB is an AWS database system that supports data structures and key-valued 
 
 AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.
 
-AWS CloudFormation is a service that gives developers and businesses an easy way to create a collection of related AWS and third-party resources, and provision and manage them in an orderly and predictable fashion.
+AWS CloudFormation is a service that gives developers and businesses an easy way to create a collection of related AWS and third-party resources, and provision and manage them in an orderly and predictable fashion
 
 Amazon Aurora is a relational database management system (RDBMS) built for the cloud with full MySQL and PostgreSQL compatibility. 
 
