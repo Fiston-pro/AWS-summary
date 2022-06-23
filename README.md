@@ -3,7 +3,7 @@ The necessary things studied in the AWS Udemy course just to keep track of them
 
 Amazon Route 53 is a scalable and highly available Domain Name System service. 
 
-A NAT Gateway is an AWS service that allows a private subnet to have access to the Internet, but prevents the Internet from initiating a connection directly to the instances
+A NAT Gateway is an AWS service that allows a private subnet to have access to the Internet, but prevents the Internet from initiating a connection directly to the instances.
 
 Amazon Redshift is a relational database management system. 
 
