@@ -57,7 +57,7 @@ AWS status is a way which shows how services are responding in different regions
 
 AWS personal health dashboard gives you a personalised issues that can hinder your resources
 
-## Security and Compli ance
+## Security and Compliance
 
 AWS Shield is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS.
 
