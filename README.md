@@ -27,7 +27,7 @@ Amazon Cognito is a simple user identity service that helps you securely manage 
 
 AWS Elastic Block Store (EBS) is storage used by one EC2 to store persistent data. 
 
-WS Security Token Service (AWS STS) is a web service that enables you to request temporary, limited-privilege credentials for AWS IAM users or for users that you authenticate 
+WS Security Token Service (AWS STS) is a web service that enables you to request temporary, limited-privilege credentials for AWS IAM users or for users that you authenticate.
 
 Amazon Elastic Container Service (ECS) is a container management service that supports Docker containers and allows you to run applications on a managed cluster of Amazon Elastic Compute Cloud (Amazon EC2) instances.
 
