@@ -129,7 +129,7 @@ Amazon Elastic Transcoder is media transcoding in the cloud.
 
 AWS Device Farm is an app testing service that lets you test your Android, iOS, and web apps , on a massive collection of real mobile devices hosted in the AWS Cloud.
 
-Amazon Sumerian makes it easy to create engaging 3D front-end experiences 
+Amazon Sumerian makes it easy to create engaging 3D front-end experiences. 
 
 AWS Elastic Disaster Recovery (AWS DRS) minimizes downtime and data loss with fast, reliable recovery of on-premises and cloud-based applications.
 
