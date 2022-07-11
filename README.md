@@ -91,7 +91,7 @@ AWS abuse is used to report abusive or illegal activities hosted on AWS
 
 Amazon rekognition automate image and video analysis
 
-Amazon transcribe is an ML tool to turn speech to text
+Amazon transcribe is an ML tool to turn speech to text.
 
 Amazon Polly is an ML tool to turn text to speech
 
